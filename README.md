@@ -108,6 +108,8 @@ While companies respond to most complaints in a timely manner (93.8%), the natur
 
 From 2017 to 2023, **web** became the dominant complaint channel, surging during the **COVID-19 pandemic**. 
 
+![2017 channels](Visualizations/submission_breakdown.png)
+
 2017
 ![2017 channels](Visualizations/submission_channel_2017.png) 
 
