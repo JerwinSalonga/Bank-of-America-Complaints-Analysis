@@ -62,25 +62,32 @@ Geographically, the spike was most pronounced in states with large populations, 
 ### Seasonal Complaint Trends
 Complaint volumes tend to rise consistently in Q3 that shows 23% higher complaint volumes than Q1. Indicating a possible seasonal effect that companies should anticipate and plan for.
 
-2017 
+2017: 
+
 ![2017 trends](Visualizations/complaints_trend_2017.png) 
 
-2018
+2018:
+
 ![2018 trends](Visualizations/complaints_trend_2018.png) 
 
-2019
+2019:
+
 ![2019 trends](Visualizations/complaints_trend_2019.png)
 
-2020 
+2020: 
+
 ![2020 trends](Visualizations/complaints_trend_2020.png)
 
-2021 
+2021: 
+
 ![2021 trends](Visualizations/complaints_trend_2021.png)
 
-2022
+2022:
+
 ![2022 trends](Visualizations/complaints_trend_2022.png)
 
-2023 
+2023: 
+
 ![2023 trends](Visualizations/july_2023_spike.png)
 
 ### Product and Issue Concentration
