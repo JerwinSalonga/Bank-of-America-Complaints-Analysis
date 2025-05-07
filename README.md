@@ -112,6 +112,7 @@ From 2017 to 2023, **web** became the dominant complaint channel, surging during
 
 ![2017 channels](Visualizations/submission_breakdown_2.png)
 
+<img src="Visualizations/submission_breakdown_3.png" width="100"
 ![2017 channels](Visualizations/submission_breakdown_3.png)
 
 This shift strained response systems. Complaints submitted online saw **more untimely responses** in 2020 vs 2021, suggesting that financial firms struggled to keep up with rising digital volumes.
