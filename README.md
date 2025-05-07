@@ -8,7 +8,7 @@
 >[!SUMMARY] Table of Contents
 
 >- [[Bank of America Complaints Analysis#Bank of America Complaints Analysis|Bank of America Complaints Analysis]]
->    - [[Bank of America Complaints Analysis#Project Background|Project Background]]
+>    - [Bank of America Complaints Analysis#Project Background|Project Background](#Project Background)
 >    - [[Bank of America Complaints Analysis#Executive Summary|Executive Summary]]
 >    - [[Bank of America Complaints Analysis#Data Description |Data Description ]]
 >    - [[Bank of America Complaints Analysis#Insights Deep-Dive|Insights Deep-Dive]]
