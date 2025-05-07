@@ -29,9 +29,9 @@ This project analyzes consumer complaints submitted to the CFPB about Bank of Am
 
 Analysis of consumer complaints data from 2017-2023 reveals a significant pattern in financial service issues, with total complaints reaching 62,516. July 2023 marked a notable spike of 1,743 complaints, 174% above the monthly average. Banking services, particularly checking and savings accounts, represent 46% of all complaints, followed by credit card issues (28%). The timely response rate stands at 93.8%, though resolution effectiveness varies with 65.7% closed with explanation and 23.5% resulting in monetary relief. Geographic analysis shows concentration in California, Florida, and Texas, accounting for 35% of total complaints. Implementing enhanced account management systems and strengthening response protocols could significantly improve customer satisfaction and operational efficiency.
 
-![Complaint trend over time](Visualizations/20250506233003.png) 
+![Complaint trend over time](Visualizations/executive_summary_1.png) 
 
-![Product breakdown](Visualizations/20250506233031.png) 
+![Product breakdown](executive_summary_2.png) 
 
 --- 
 ## Data Schema Overview
