@@ -2,24 +2,28 @@
 
 ## **TOC**
 
-- [Bank of America Complaints Analysis](#bank-of-america-complaints-analysis)
-  - [Project Background](#project-background)
-  - [Executive Summary](#executive-summary)
-  - [Data Schema Overview](#data-schema-overview)
-  - [Insights Deep-Dive](#insights-deep-dive)
-    - [Peak Complaint Month in July 2023](#peak-complaint-month-in-july-2023)
-    - [Seasonal Complaint Trends](#seasonal-complaint-trends)
-    - [Product and Issue Concentration](#product-and-issue-concentration)
-    - [Complaint Resolution Outcomes](#complaint-resolution-outcomes)
-    - [Digital Shift and Response Delays During COVID-19](#digital-shift-and-response-delays-during-covid-19)
-    - [Complaints with untimely responses](#complaints-with-untimely-responses)
-  - [Recommendations](#recommendations)
-    - [Strengthen Peak Period Readiness](#strengthen-peak-period-readiness)
-    - [Improve Banking Product Experience](#improve-banking-product-experience)
-    - [Boost Resolution Quality and Clarity](#boost-resolution-quality-and-clarity)
-    - [Optimize Digital Complaint Handling](#optimize-digital-complaint-handling)
-    - [Address Root Causes of Delayed Responses](#address-root-causes-of-delayed-responses)
-  - [Assumptions, and Caveats](#assumptions-and-caveats)
+
+>[!SUMMARY] Table of Contents
+
+>- [[Bank of America Complaints Analysis#Bank of America Complaints Analysis|Bank of America Complaints Analysis]]
+>    - [[Bank of America Complaints Analysis#Project Background|Project Background]]
+>    - [[Bank of America Complaints Analysis#Executive Summary|Executive Summary]]
+>    - [[Bank of America Complaints Analysis#Data Description |Data Description ]]
+>    - [[Bank of America Complaints Analysis#Insights Deep-Dive|Insights Deep-Dive]]
+>        - [[Bank of America Complaints Analysis#Peak Complaint Month in July 2023|Peak Complaint Month in July 2023]]
+>        - [[Bank of America Complaints Analysis#Seasonal Complaint Trends|Seasonal Complaint Trends]]
+>        - [[Bank of America Complaints Analysis#Product and Issue Concentration|Product and Issue Concentration]]
+>        - [[Bank of America Complaints Analysis#Complaint Resolution Outcomes|Complaint Resolution Outcomes]]
+>        - [[Bank of America Complaints Analysis#Digital Shift and Response Delays During COVID-19|Digital Shift and Response Delays During COVID-19]]
+>        - [[Bank of America Complaints Analysis#Complaints with untimely responses|Complaints with untimely responses]]
+>    - [[Bank of America Complaints Analysis#Recommendations|Recommendations]]
+>        - [[Bank of America Complaints Analysis#Strengthen Peak Period Readiness  |Strengthen Peak Period Readiness  ]]
+>        - [[Bank of America Complaints Analysis#Improve Banking Product Experience|Improve Banking Product Experience]]
+>        - [[Bank of America Complaints Analysis#Boost Resolution Quality and Clarity  |Boost Resolution Quality and Clarity  ]]
+>        - [[Bank of America Complaints Analysis#Optimize Digital Complaint Handling|Optimize Digital Complaint Handling]]
+>        - [[Bank of America Complaints Analysis#Address Root Causes of Delayed Responses|Address Root Causes of Delayed Responses]]
+>    - [[Bank of America Complaints Analysis#Assumptions, and Caveats|Assumptions, and Caveats]]
+
 
 # Bank of America Complaints Analysis
 
