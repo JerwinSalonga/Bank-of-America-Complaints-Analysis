@@ -31,7 +31,7 @@ Analysis of consumer complaints data from 2017-2023 reveals a significant patter
 
 ![Complaint trend over time](Visualizations/executive_summary_1.png) 
 
-![Product breakdown](executive_summary_2.png)  
+![Product breakdown](Visualizations/executive_summary_2.png)  
 
 --- 
 ## Data Schema Overview
@@ -45,104 +45,104 @@ Analysis of consumer complaints data from 2017-2023 reveals a significant patter
 
 Complaint volumes have generally trended upward since 2020, with a dramatic spike in July 2023. This surge, representing a 174% increase over the monthly average,  was driven by the increase of complaints related to checking or savings accounts, which accounted for 869 cases. 
 
-![July 2023 spike](july_2023_spike.png)  
+![July 2023 spike](Visualizations/july_2023_spike.png)  
 
 The most common issues within this category were managing an account, opening an account, and problems with lenders or companies charging accounts. This suggests that consumers faced notable challenges with their banking services during this period, possibly due to changes in account management processes, new fees, or disruptions in service.
 
-![Common issues](peak_complaint_issue.png) 
+![Common issues](Visualizations/peak_complaint_issue.png) 
 
 Credit card and prepaid card complaints also contributed to the spike, with 486 cases. The leading issues here were problems with purchases shown on statements, other features or terms, and fees or interest. This indicates that many consumers experienced difficulties with their credit card transactions and account features.
 
-![Credit card issues](peak_complaint_issue_2.png)  
+![Credit card issues](Visualizations/peak_complaint_issue_2.png)  
 
 Geographically, the spike was most pronounced in states with large populations, such as California, Florida, and Texas, but the trend was observed nationwide.
 
-![Geographic distribution](peak_complaint_distribution.png) 
+![Geographic distribution](Visualizations/peak_complaint_distribution.png) 
 
 ### Seasonal Complaint Trends
 Complaint volumes tend to rise consistently in Q3 that shows 23% higher complaint volumes than Q1. Indicating a possible seasonal effect that companies should anticipate and plan for.
 
 2017 
-![2017 trends](complaints_trend_2017.png) 
+![2017 trends](Visualizations/complaints_trend_2017.png) 
 
 2018
-![2018 trends](complaints_trend_2018.png) 
+![2018 trends](Visualizations/complaints_trend_2018.png) 
 
 2019
-![2019 trends](complaints_trend_2019.png)
+![2019 trends](Visualizations/complaints_trend_2019.png)
 
 2020 
-![2020 trends](complaints_trend_2020.png)
+![2020 trends](Visualizations/complaints_trend_2020.png)
 
 2021 
-![2021 trends](complaints_trend_2021.png)
+![2021 trends](Visualizations/complaints_trend_2021.png)
 
 2022
-![2022 trends](complaints_trend_2022.png)
+![2022 trends](Visualizations/complaints_trend_2022.png)
 
 2023 
-![2023 trends](july_2023_spike.png)
+![2023 trends](Visualizations/july_2023_spike.png)
 
 ### Product and Issue Concentration
 
 Banking products, particularly checking and savings accounts, are at the heart of consumer dissatisfaction, accounting for 46% of all complaints. Credit card and prepaid card issues follow closely, making up 28%. The most common issues reported include managing accounts, incorrect information on credit reports, and problems with purchases or account charges. These recurring themes point to systemic challenges in account management, transaction transparency, and credit reporting accuracy.
    
-![Product concentration](overall_product_complaints.png) 
+![Product concentration](Visualizations/overall_product_complaints.png) 
 
-![Issue breakdown](overall_issue_complaints.png)
+![Issue breakdown](Visualizations/overall_issue_complaints.png)
 
 ### Complaint Resolution Outcomes
 
 While companies respond to most complaints in a timely manner (93.8%), the nature of these resolutions varies. The majority (65.7%) are closed with an explanation, while 23.5% result in monetary relief and 8.4% in non-monetary relief. Only a small fraction remain in progress. This distribution suggests that while companies are generally responsive, there is room to improve the quality and impact of their resolutions, especially for complex or recurring issues.
 
-![Resolution outcomes](company_response_distribution.png) 
+![Resolution outcomes](Visualizations/company_response_distribution.png) 
 
 ### Digital Shift and Response Delays During COVID-19
 
 From 2017 to 2023, **web** became the dominant complaint channel, surging during the **COVID-19 pandemic**. 
 
 2017
-![2017 channels](submission_channel_2017.png) 
+![2017 channels](Visualizations/submission_channel_2017.png) 
 
 2018
-![2018 channels](submission_channel_2018.png) 
+![2018 channels](Visualizations/submission_channel_2018.png) 
 
 2019
-![2019 channels](submission_channel_2019.png) 
+![2019 channels](Visualizations/submission_channel_2019.png) 
 
 2020
-![2020 channels](submission_channel_2020.png) 
+![2020 channels](Visualizations/submission_channel_2020.png) 
 
 2021
-![2021 channels](submission_channel_2021.png)
+![2021 channels](Visualizations/submission_channel_2021.png)
 
 2022
-![2022 channels](submission_channel_2022.png) 
+![2022 channels](Visualizations/submission_channel_2022.png) 
 
 2023
-![2023 channels](submission_channel_2023.png) 
+![2023 channels](Visualizations/submission_channel_2023.png) 
 
 
 This shift strained response systems. Complaints submitted online saw **more untimely responses** in 2020 vs 2021, suggesting that financial firms struggled to keep up with rising digital volumes.
 
 2020
-![2020 responses](untimely_submission_channel_2020.png) 
+![2020 responses](Visualizations/untimely_submission_channel_2020.png) 
 
 2021
-![2021 responses](untimely_submission_channel_2021.png) 
+![2021 responses](Visualizations/untimely_submission_channel_2021.png) 
 
 
 ### Complaints with untimely responses
 
 The data shows a sharp increase in untimely complaint responses beginning in 2020 and peaking in 2021, indicating a strong COVID-19 impact on operational efficiency. Although there's a downward trend post-2021, 2022 (560 complaints) and 2023 (529 complaints) figures remain above pre-pandemic levels, suggesting a "new normal" in response times.
 
-![Untimely responses trend](untimely_complaint_trend_yoy.png)
+![Untimely responses trend](Visualizations/untimely_complaint_trend_yoy.png)
 
 Untimely responses during this period were related to basic banking services (checking/savings accounts), suggesting that banks may have been particularly challenged in maintaining response times. On the other hand, the most delayed issues involved "Managing an account" and "Incorrect information on reports," implying that these complex or high-touch cases are more difficult to resolve within standard timeframes.
 
-![Delayed services](untimely_product_complaints.png) 
+![Delayed services](Visualizations/untimely_product_complaints.png) 
 
-![Delayed issues](untimely_issue_complaints.png) 
+![Delayed issues](Visualizations/untimely_issue_complaints.png) 
 
 
 --- 
