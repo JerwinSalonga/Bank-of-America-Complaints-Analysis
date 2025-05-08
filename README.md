@@ -47,7 +47,7 @@ Analysis of consumer complaints data from 2017-2023 reveals a significant patter
 
 Complaint volumes have generally trended upward since 2020, with a dramatic spike in July 2023. This surge, representing a 174% increase over the monthly average,  was driven by the increase of complaints related to checking or savings accounts, which accounted for 869 cases. 
 
-![July 2023 spike](Visualizations/july_2023_spike.png)  
+<img src="Visualizations/july_2023_spike.png" height="245">
 
 The most common issues within this category were managing an account, opening an account, and problems with lenders or companies charging accounts. This suggests that consumers faced notable challenges with their banking services during this period, possibly due to changes in account management processes, new fees, or disruptions in service.
 
@@ -114,17 +114,17 @@ From 2017 to 2023, **web** became the dominant complaint channel, surging during
 
 ![2017 channels](Visualizations/submission_breakdown_2.png)
 
-![2017 channels](Visualizations/submission_breakdown_3.png)
+<img src="Visualizations/submission_breakdown_3.png" height="300">
 
 This shift strained response systems. Complaints submitted online saw **more untimely responses** in 2020 vs 2021, suggesting that financial firms struggled to keep up with rising digital volumes.
 
-![2017 channels](Visualizations/untimely_submission_channel.png)
+<img src="Visualizations/untimely_submission_channel.png" height="280">
 
 ### Complaints with untimely responses
 
 The data shows a sharp increase in untimely complaint responses beginning in 2020 and peaking in 2021, indicating a strong COVID-19 impact on operational efficiency. Although there's a downward trend post-2021, 2022 (560 complaints) and 2023 (529 complaints) figures remain above pre-pandemic levels, suggesting a "new normal" in response times.
 
-![Untimely responses trend](Visualizations/untimely_complaint_trend_yoy.png)
+<img src="Visualizations/untimely_complaint_trend_yoy.png" height="270">
 
 Untimely responses during this period were related to basic banking services (checking/savings accounts), suggesting that banks may have been particularly challenged in maintaining response times. On the other hand, the most delayed issues involved "Managing an account" and "Incorrect information on reports," implying that these complex or high-touch cases are more difficult to resolve within standard timeframes.
 
