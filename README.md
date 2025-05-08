@@ -31,6 +31,8 @@ Analysis of consumer complaints data from 2017-2023 reveals a significant patter
 
 ![Complaint trend over time](Visualizations/executive_summary_1.png) 
 
+![Product breakdown](Visualizations/executive_summary_yoy.png)
+
 ![Product breakdown](Visualizations/executive_summary_2.png)  
 
 --- 
