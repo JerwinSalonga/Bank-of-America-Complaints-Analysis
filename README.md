@@ -1,4 +1,4 @@
-# Bank-of-America-Complaints-Analysis
+# Bank of America Complaints Analysis
 
 ## **Table of Contents**
 
